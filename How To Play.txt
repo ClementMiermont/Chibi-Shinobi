@@ -1,0 +1,18 @@
+Look at one of the nodes : 
+- press F to fire grapple
+
+The grapple system is based on a vector calculation, between
+currently in game player position, and the node in front of camera.
+When node is green, you can fire grapple. 
+
+move :
+- classic third person move
+jump : 
+- space
+
+I modeled and animated each assets in the game,
+but please notice that the project is still
+in development. 
+
+have fun ! 
+
